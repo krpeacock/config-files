@@ -1,0 +1,27 @@
+{
+  "window.zoomLevel": 0,
+  "editor.tabSize": 2,
+  "editor.insertSpaces": true,
+  "editor.renderWhitespace": "boundary",
+  "editor.formatOnSave": true,
+  "editor.fontFamily": "Fira Code",
+  "editor.fontLigatures": true,
+  "git.enableSmartCommit": true,
+  "files.associations": {
+    "*.tmpl": "xml"
+  },
+  "pasteAndIndent.selectAfter": true,
+  "sublimeTextKeymap.promptV3Features": true,
+  "editor.multiCursorModifier": "ctrlCmd",
+  "editor.snippetSuggestions": "top",
+  "editor.formatOnPaste": false,
+  "explorer.confirmDragAndDrop": false,
+  "workbench.colorTheme": "Visual Studio Dark",
+  "search.exclude": {
+    "**/.dist": true,
+    "**/target": true
+  },
+  "workbench.panel.location": "bottom",
+  "git.autofetch": true,
+  "[javascript]": {}
+}
