@@ -13,3 +13,8 @@
 * Indenticator
 * VSCode Icons
   * https://github.com/tonsky/FiraCode
+* Auto close
+* Auto Rename Tag
+* REST Client
+* Bracket Pair Colorizer
+* Indent-rainbow
