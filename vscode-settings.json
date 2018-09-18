@@ -1,5 +1,5 @@
 {
-  "window.zoomLevel": 0,
+  "window.zoomLevel": 1,
   "editor.tabSize": 2,
   "editor.insertSpaces": true,
   "editor.renderWhitespace": "boundary",
@@ -16,6 +16,7 @@
   "editor.snippetSuggestions": "top",
   "editor.formatOnPaste": false,
   "explorer.confirmDragAndDrop": false,
+  "liveServer.settings.wait": 3000,
   "workbench.colorTheme": "Visual Studio Dark",
   "search.exclude": {
     "**/.dist": true,
@@ -23,5 +24,13 @@
   },
   "workbench.panel.location": "bottom",
   "git.autofetch": true,
-  "[javascript]": {}
+  "[javascript]": {},
+  "editor.largeFileOptimizations": false,
+  "explorer.confirmDelete": false,
+  "vsvault.vaultLocation": "/Users/kpeacock/Downloads/crx-quickstart/opt/filevault/vault-cli-3.1.16/bin",
+  "workbench.action.terminal.focus": "cmd+shift+`",
+  "workbench.action.terminal.focusNext": "cmd+shift+k",
+  "workbench.action.terminal.focusPrevious": "cmd+shift+j",
+  "workbench.action.terminal.kill": "cmd+shift+delete",
+  "javascript.updateImportsOnFileMove.enabled": "always"
 }
